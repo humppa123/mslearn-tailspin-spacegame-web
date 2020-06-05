@@ -1,0 +1,7 @@
+organization=humppa123
+projectKey=humppa123_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8469
+dashboardUrl=https://sonarcloud.io/dashboard?id=humppa123_mslearn-tailspin-spacegame-web
+ceTaskId=AXKDilC0OHtPoeO7Pnud
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKDilC0OHtPoeO7Pnud
