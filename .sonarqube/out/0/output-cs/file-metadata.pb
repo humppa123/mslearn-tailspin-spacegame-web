@@ -1,0 +1,11 @@
+Ö
+zC:\Code\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.csutf-8á
+|C:\Code\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.csutf-8á
+|C:\Code\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\obj\Release\netcoreapp3.1\Razor\Views\Home\Profile.cshtml.g.csutf-8á
+|C:\Code\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.csutf-8ò
+åC:\Code\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\obj\Release\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.csutf-8â
+~C:\Code\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.csutf-8ú
+êC:\Code\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.csutf-8á
+|C:\Code\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.csutf-8Ö
+zC:\Code\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.csutf-8ï
+âC:\Code\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\obj\Release\netcoreapp3.1\Tailspin.SpaceGame.Web.RazorTargetAssemblyInfo.csutf-8
